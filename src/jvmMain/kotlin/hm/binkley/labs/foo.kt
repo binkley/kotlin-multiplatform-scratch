@@ -1,3 +1,3 @@
 package hm.binkley.labs
 
-actual fun foo(message: String) = println("Hello from JVM!")
+actual fun foo() = 2

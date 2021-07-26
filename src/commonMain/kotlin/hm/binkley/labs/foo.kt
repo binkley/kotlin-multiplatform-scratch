@@ -1,3 +1,3 @@
 package hm.binkley.labs
 
-expect fun foo(message: String): Unit
+expect fun foo(): Int

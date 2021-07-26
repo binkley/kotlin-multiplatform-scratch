@@ -1,3 +1,3 @@
 package hm.binkley.labs
 
-actual fun foo(message: String) = println("Hello from JS!")
+actual fun foo() = 1
